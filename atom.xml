@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shawpoo&#39;s Blog</title>
+  <subtitle>欢迎阅读</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-04-28T06:44:31.532Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Shawpoo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello, 欢迎访问Shawpoo的Blog</title>
+    <link href="http://yoursite.com/2017/04/24/hello-world/"/>
+    <id>http://yoursite.com/2017/04/24/hello-world/</id>
+    <published>2017-04-23T16:00:00.000Z</published>
+    <updated>2017-04-28T06:44:31.532Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;你瞅啥？？？再瞅就点点下面的打赏呗！&quot;&gt;&lt;a href=&quot;#你瞅啥？？？再瞅就点点下面的打赏呗！&quot; class=&quot;headerlink&quot; title=&quot;你瞅啥？？？再瞅就点点下面的打赏呗！&quot;&gt;&lt;/a&gt;你瞅啥？？？再瞅就点点下面的打赏呗！&lt;/h1&gt;&lt;p&gt;&lt;img s
+    
+    </summary>
+    
+      <category term="记录" scheme="http://yoursite.com/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+    
+      <category term="Test" scheme="http://yoursite.com/tags/Test/"/>
+    
+  </entry>
+  
+</feed>
